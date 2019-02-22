@@ -1,0 +1,13 @@
+<form action="mailto:easimons440@wilkescc.edu" method="post" enctype="text/plain">
+  First name:<br>
+  <input type="text" name="First Name"><br>
+  Last name:<br>
+  <input type="text" name="Last Name"><br>
+  Email:<br>
+  <input type="text" name="Email"><br>
+  Comment:<br>
+  <input type="text" name="Comment">
+  <br><br>
+  <input type="submit" value="Submit">
+  <input type="reset" value="Reset">
+</form>
