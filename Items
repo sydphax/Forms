@@ -1,0 +1,66 @@
+<table style="width: 653px; height: 843px;" border="1px">
+<thead>
+<tr style="height: 23px; background-color: #85929e; text-align: center;">
+<td style="width: 164px; height: 23px;"><strong>Item Name</strong></td>
+<td style="width: 108px; height: 23px;"><strong>Item ID</strong></td>
+<td style="width: 201px; height: 23px;"><strong>Item Description</strong></td>
+<td style="width: 102px; height: 23px;"><strong>Quantity</strong></td>
+<td style="width: 77px; height: 23px;"><strong>Price</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 26px; background-color: lightgreen;">
+<td style="width: 164px; height: 26px;">
+<p>Bertie Bott's Every Flavour Beans</p>
+</td>
+<td style="width: 108px; height: 26px;">101818</td>
+<td style="width: 201px; height: 26px;">
+<p>Every new bite is a shocker! With Bertie Bott's Beans, there is a new flavour in every bite some might get a trick and others shall get a treat.&nbsp;</p>
+<p>1 Box (includes 42 beans)</p>
+</td>
+<td><center><input style="width: 25px; height: 25px;" name="Quantity" type="number" value="0" /></center></td>
+<td style="width: 77px; height: 26px;">$10.95</td>
+</tr>
+<tr style="height: 46px; background-color: violet;">
+<td style="width: 164px; height: 46px;">Chocolate Frogs</td>
+<td style="width: 108px; height: 46px;">101842</td>
+<td style="width: 201px; height: 46px;">
+<p>These flavors are practially jumping for joy! These frogs are anything but slimy; we think they're the right balance of rich cocoa and sweet secret ingredients</p>
+<p>1 Box (includes 2 frogs)</p>
+</td>
+<td style="width: 102px; height: 46px;"><center><input style="width: 25px; height: 25px;" name="Quantity" type="number" value="0" /></center></td>
+<td style="width: 77px; height: 46px;">$10.95</td>
+</tr>
+<tr style="height: 50px; background-color: lightblue;">
+<td style="width: 164px; height: 50px;">Gillywater</td>
+<td style="width: 108px; height: 50px;">101613</td>
+<td style="width: 201px; height: 50px;">
+<p>This water will knock your socks off! Down in the dumps? Need a good laugh? Boy, do we have the drink for you!</p>
+<p>1 Carton (includes 6 bottles)</p>
+</td>
+<td style="width: 102px; height: 50px;"><center><input style="width: 25px; height: 25px;" name="Quantity" type="number" value="0" /></center></td>
+<td style="width: 77px; height: 50px;">$8.55</td>
+</tr>
+<tr style="height: 23px; background-color: #f8b471;">
+<td style="width: 164px; height: 23px;">Jelly Slugs</td>
+<td style="width: 108px; height: 23px;">101859</td>
+<td style="width: 201px; height: 23px;">
+<p>This product is slithering right into your cart! The gelatinous texture is too good to resist. Get now and assemble your Jeli Sloog army.(see video below)</p>
+<p>1 bag (includes 12 Jelly Slugs)</p>
+</td>
+<td style="width: 102px; height: 23px;"><center><input style="width: 25px; height: 25px;" name="Quantity" type="number" value="0" /></center></td>
+<td style="width: 77px; height: 23px;">$6.95</td>
+</tr>
+<tr style="height: 23px; background-color: lightyellow;">
+<td style="width: 164px; height: 23px;">Sherbet Lemons</td>
+<td style="width: 108px; height: 23px;">101873</td>
+<td style="width: 201px; height: 23px;">
+<p>We promise to make your mouth pucker with this intense flavour. If you live on the wild side, this is the sour candy for you, buckaroo!</p>
+<p>1 lb. bag (includes 28 Sherbet Lemons)</p>
+</td>
+<td style="width: 102px; height: 23px;"><center><input style="width: 25px; height: 25px;" name="Quantity" type="number" value="0" /></center></td>
+<td style="width: 77px; height: 23px;">$12.95</td>
+</tr>
+</tbody>
+</table>
+
